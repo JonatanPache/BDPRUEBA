@@ -1,0 +1,39 @@
+Nombre: Condori Pacheco Yonatan Jeremias
+N Reg: 217013252
+}
+Desarrolle las siguientes actividades
+
+Explique por qué el Lenguaje SQL es un lenguaje no procedimental
+-Porque el usuario especifica lo que quiere no como ni donde conseguirlo
+Explique para qué sirve la clausula SELECT en una consulta
+-Sirve para recuperar datos
+Explique para qué sirve la clausula FROM en una consulta
+-Sirve para especificar en que tabla se quiere recuperar datos
+Explique para que sirve la clausula WHERE en una consulta
+-Sirve para especificar las restricciones de la recuperacion de datos
+Explique para qué sirve la clausula GROUP BY en una consulta
+-Sirve para agrupar el resultado de la recuperacion de los datos
+Explique para qué sirve la clausula HAVING en una consulta
+-Sirve para usar en vez de la clausula WHERE
+Explique para qué sirve la clausula ORDER BY en una consulta
+-Sirve para Ordenar el rsultado de la recuperacion de datos
+Es posible escribir una consulta solamente con la clausula SELECT
+-No
+La clausula HAVING solamente se usa con la clausula SELECT Falso o verdadero
+-Verdadero
+Explique qué es una sub consulta
+-Esta dentro de otra consulta padre
+Explique como funciona la clausula IN
+-Dado el resultado de una consulta, con la clausula IN podemos aun consultar con otras tablas relacionadas
+Explique como funciona la clausula EXISTS
+-Dado el resultado de una consulta, con la cluasula EXITS consultamos si existe tal dato dentro otra consulta
+Explique qué es una referencia externa
+-Es consultar otra tabla que este relacionada con la tabla actual
+Explique para qué sirve cada una de la siguientes funciones agregadas del SQL
+
+AVG() Promedio  
+SUM() Suma
+COUNT() Contar filas
+COUNT(*) Contar todas
+MIN() Minimo de una fila
+MAX() Maxima de una fila
